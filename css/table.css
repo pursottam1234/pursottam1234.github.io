@@ -1,0 +1,23 @@
+.list{
+  list-style-type: upper-roman;
+}
+table,td,th{
+  border: 10px double violet;
+}
+table{
+  border-collapse: collapse;
+}
+th{
+  background-color: yellow;
+  font-size: 20px;
+  font-style: italic;
+  color: green;
+padding: 20px 20px;
+}
+td{
+  background-color:green;
+  font-color: red;
+  font-style: oblique;
+  font-size: 10px;
+  padding: 10px 10px;
+}

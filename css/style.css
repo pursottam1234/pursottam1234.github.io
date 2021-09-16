@@ -1,0 +1,45 @@
+.mydiv{
+  color: rgb(0,244,255);
+  background-color: #0000FF;
+  font-size: 20px;
+  font-weight: bold;
+  height: 100px;
+  width: 50%
+  text-decoration: overline;
+  text-transform: capitalize;
+  text-align: justify;
+  word-spacing: 20px;
+  }
+.mydive2{
+  background-color: blue;
+  border-width: 25px;
+  border-style: solid;
+  border-color: red;
+}
+.mydiv3{
+  font-size: 50px;
+  font-style: normal;
+background-color: yellow;
+border: 20px double blue;
+height: 200px;
+width: 1000px;
+}
+.mydiv4{
+  background-image: url(../img/img.jpg);
+  border: 10px dashed orange;
+font-size: 20px;
+font-style: italic;
+  height: 300px;
+  width: 300px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+.circle{
+  background-image: url(../img/user.jpg);
+  border-radius: 250px;
+  overflow: hidden;
+  height: 300px;
+  width: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
